@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋,
+
+I'm a UI Developer working who is currently:
+
+- 🔭 working on React.Js with a Music Streaming Company.
+- 👯 looking to collaborate on Full Stack applications based on MERN Stack or with Python.
 
 <!--
 **shubhammm4u/shubhammm4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
