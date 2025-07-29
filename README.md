@@ -1,8 +1,8 @@
 ### Hi there 👋,
 
-I'm a UI Developer working who is currently:
+I'm a Lead Engineer working who is:
 
-- 🔭 working on React.Js with a Music Streaming Company.
+- 🔭 working as a Solutions Architect for a Healthcare client.
 - 👯 looking to collaborate on Full Stack applications based on MERN Stack or with Python.
 
 <!--
